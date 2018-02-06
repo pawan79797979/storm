@@ -1,0 +1,5 @@
+---
+# defaults file for zooinstall
+ip1: 10.0.0.19   
+ip2: 10.0.0.20    
+ip3: 10.0.0.21
